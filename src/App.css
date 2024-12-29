@@ -1,0 +1,11 @@
+.movie-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+}
+
+.filter input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
